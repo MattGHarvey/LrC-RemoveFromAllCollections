@@ -1,4 +1,11 @@
 
+--RemoveFromAllCollections 
+--Removes selected photo(s) from all collections they are members of in Lightroom Classic 
+--[[ Disclaimer
+
+This project is provided “as is” without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. The developer assumes no responsibility or liability for any errors, omissions, or issues arising from the use of this software.
+
+By using this project, you acknowledge and agree that the developer is not liable for any direct, indirect, incidental, or consequential damages resulting from its use. Use at your own risk. ]]
 return {
 	
 	LrSdkVersion = 3.0,
